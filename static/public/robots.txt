@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /feed.rss
+Disallow: /mediaelement
+Disallow: /mp3
+Disallow: /img
+Disallow: /goodies
+Disallow: /css
